@@ -44,6 +44,10 @@ a:focus {
   outline: 3px solid #fff;
 }
 
+.banner a:focus {
+  outline: 3px solid #fff;
+}
+
 .banner {
   min-height: 16em;
   background-color: #522806;
